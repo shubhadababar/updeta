@@ -8,5 +8,12 @@ public class demo
 	
 		System.out.println("asdfghjkl");
 }
+	public void m1()
+	{
+		
+				System.out.println("asdfghjkl");
+
+			
+	}
 
 }
