@@ -1,4 +1,4 @@
-package com.demo;
+package GitHub;
 
 public class demo 
 {
@@ -9,6 +9,13 @@ public class demo
 		System.out.println("asdfghjkl");
 }
 	public void m1()
+	{
+		
+				System.out.println("asdfghjkl");
+
+			
+	}
+	public void m2()
 	{
 		
 				System.out.println("asdfghjkl");
