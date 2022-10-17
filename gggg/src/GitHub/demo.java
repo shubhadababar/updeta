@@ -29,10 +29,10 @@ public class demo
 
 			
 	}
-	public shubhada m7()
+	public void m7()
 	{
 	System.out.println("hello its suyash");
-	
+	  
 	}
 
 }
