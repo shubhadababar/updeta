@@ -22,5 +22,12 @@ public class demo
 
 			
 	}
+	public void m4()
+	{
+		
+				System.out.println("asdfghjkl");
+
+			
+	}
 
 }
