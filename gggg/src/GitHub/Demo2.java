@@ -7,4 +7,7 @@ public class Demo2 {
 	public void m1(){
 		System.out.println("Shubhada Here");
 	}
+	public void m2(){
+		System.out.println("From Selenium Testing Batch");
+	}
 }
