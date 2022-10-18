@@ -9,5 +9,7 @@ public class Demo2 {
 	}
 	public void m2(){
 		System.out.println("From Selenium Testing Batch");
+			System.out.println("In CJC Company");
 	}
+	
 }
